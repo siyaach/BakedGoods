@@ -1,0 +1,43 @@
+@charset "utf-8";
+.navlist {
+    text-align: center;
+
+
+}
+.navlistitem a {
+    display: block;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: -3px;
+    font-size: 12px;
+}
+body section p {
+    line-height: 5px;
+}
+body p {
+}
+#EdgeID {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: -215px;
+    margin-top: -172px;
+    transform: scale(.4);
+
+
+}
+body header img {
+    margin-left: 325px;
+    margin-bottom: -68px;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    max-width: 68px;
+}
+
+
+
+
+
+
+
+@media (max-width: 414px){
+}

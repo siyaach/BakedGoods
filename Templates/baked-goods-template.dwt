@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="title" -->
+<title>Project 5 Siya's Baked Goods IT 213</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="style" -->
+<style type="text/css">
+body {
+    background-color: #EADECB;
+}
+</style>
+<link href="pages/css/baked-goods-website.css" rel="stylesheet" type="text/css">
+<link href="pages/css/baked-goods-tablet.css" rel="stylesheet" type="text/css">
+<link href="pages/css/baked-goods-phone.css" rel="stylesheet" type="text/css">
+<link href="../pages/css/baked-goods-website.css" rel="stylesheet" type="text/css" media="screen">
+<link href="../pages/css/baked-goods-tablet.css" rel="stylesheet" type="text/css">
+<link href="../pages/css/baked-goods-phone.css" rel="stylesheet" type="text/css">
+</head>
+<!-- TemplateEndEditable -->
+<body>
+<!-- TemplateBeginEditable name="logo" -->
+<header><img src="../2025-10-20 13.33.37.png" width="300" height="300" alt=""/>SIYA'S BAKED GOODS</header>
+<!-- TemplateEndEditable -->
+	<nav>
+<ul class="navlist">
+	<li class="navlistitem"><a href="pages/index.html">Home</a></li>
+	<li class="navlistitem"><a href="pages/about-us.html">About Us</a></li>
+	<li class="navlistitem"><a href="pages/menu.html">Menu</a></li>
+	<li class="navlistitem"><a href="pages/careers.html">Careers</a></li> 
+	<li class="navlistitem"><a href="pages/location.html">Location</a></li>
+	<li class="navlistitem"><a href="pages/contact-us.html">Contact Us</a></li> 
+	<li class="navlistitem"><a href="pages/site-map.html">Site Map</a></li>
+	
+  </ul>
+	
+</nav>
+<!-- TemplateBeginEditable name="section" -->
+<section>
+  <p>Welcome to our website! Come peruse&nbsp;&nbsp;</p>
+  <p>our selection of baked goods!</p>
+</section>
+<!-- TemplateEndEditable -->
+</body>
+</html>

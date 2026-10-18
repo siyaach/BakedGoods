@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<widget xmlns="http://openajax.org/metadata" spec="1.0" name="Project_4_Animation_Commercial_Siya_Acharya" version="1">
+
+<description type="text/html"><![CDATA[Widget Exported from Flash Professional]]></description>
+
+<category name="Flash Animation"/>
+<remarks>Compatible with: InDesign CC, Dreamweaver CC, Muse</remarks>
+<icon src="PosterImg_21.png" width="800" height="600"/>
+<require type="other" src="Project_4_Animation_Commercial_Siya_Acharya.html"/>
+<require type="javascript" src="Project_4_Animation_Commercial_Siya_Acharya.js"/>
+<require type="image" src="images/10_workingcopy_atlas_1.png"/>
+<require type="image" src="images/Project_4_Animation_Commercial_Siya_Acharya_atlas_1.png"/>
+<require type="folder" src="images"/>
+<content></content>
+
+<properties name="Properties">
+<property name="default-width" defaultValue="800" hidden="true"/>
+<property name="default-height" defaultValue="600" hidden="true"/>
+<property name="resizable" defaultValue="false" hidden="true"/>
+<property name="centering" defaultValue="" hidden="true"/>
+<property name="scaling" defaultValue="" hidden="true"/>
+<property name="html-page" defaultValue="Project_4_Animation_Commercial_Siya_Acharya.html" hidden="true"/>
+<property name="target-platform" defaultValue="htmlcanvas" hidden="true"/>
+<property name="created-in" defaultValue="Adobe Animate CC" hidden="true"/>
+</properties>
+
+</widget>
